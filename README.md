@@ -1,11 +1,11 @@
-About r-qqman
-=============
+About r-qqman-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qqman-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=qqman
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-qqman-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create Q-Q and manhattan plots for GWAS data from PLINK results.
 
